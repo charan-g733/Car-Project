@@ -92,9 +92,3 @@ Edit `backend/config.js` to set:
 ## Contributing
 
 Contributions, bug reports and feature requests are welcome. Open an issue or submit a pull request.
-
----
-
-## License
-
-MIT
